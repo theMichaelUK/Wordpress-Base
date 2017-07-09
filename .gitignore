@@ -1,6 +1,4 @@
-wp-config.php
 .htaccess
+wp-config.php
 !wp-content/themes
 wp-content/themes/*
-!wp-content/plugins
-wp-content/plugins/*
