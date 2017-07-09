@@ -2,3 +2,5 @@ wp-config.php
 .htaccess
 !wp-content/themes
 wp-content/themes/*
+!wp-content/plugins
+wp-content/plugins/*
